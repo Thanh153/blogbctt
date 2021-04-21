@@ -2,7 +2,7 @@
   "name": "my-blog",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/Thanh153/blogbctt",
+  "homepage": "http://thanh153.github.io/blog",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.5",
     "@testing-library/react": "^11.1.0",
@@ -10,7 +10,7 @@
     "bootstrap": "^4.5.3",
     "express": "^4.17.1",
     "firebase": "^8.0.0",
-    "firebase-admin": "^9.3.0",
+    "firebase-admin": "^9.3.0", 
     "html-react-parser": "^0.14.1",
     "react": "^17.0.1",
     "react-bootstrap": "^1.4.0",
